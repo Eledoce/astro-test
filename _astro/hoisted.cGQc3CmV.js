@@ -1,0 +1,1 @@
+import"./hoisted.4PK_pqbL.js";const r=document.querySelector(".navbar"),c=r.querySelectorAll("a"),e=window.location.href;c.forEach(o=>{console.log(o.href,e,o.href===e,"############################### from nos"),o.href===e&&o.classList.add("active")});

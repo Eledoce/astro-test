@@ -1,0 +1,1 @@
+import"./hoisted.4PK_pqbL.js";document.addEventListener("astro:page-load",()=>{const a=document.querySelector(".navbar").querySelectorAll("a"),t=window.location.href;a.forEach(e=>{e.href===t&&e.classList.add("active")})});
